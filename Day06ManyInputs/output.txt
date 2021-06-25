@@ -1,0 +1,2 @@
+JerryNEW;16andup;cat,dog,other;Asia;24
+Maria;18to35;cat;Australia/Oceania;20
