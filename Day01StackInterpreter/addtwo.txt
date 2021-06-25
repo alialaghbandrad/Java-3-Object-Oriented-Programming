@@ -1,0 +1,4 @@
+read:Enter value 1
+read:Enter value 2
+add
+print:Result after adding

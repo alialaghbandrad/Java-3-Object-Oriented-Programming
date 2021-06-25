@@ -1,0 +1,9 @@
+read:Enter temperature in Celsius
+push:9
+mul
+push:5
+exchange
+div
+push:32
+add
+print:Temperature in Fahrenheit
